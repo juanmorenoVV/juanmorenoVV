@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Juan Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**juanmorenoVV/juanmorenoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-andres-moreno-valbuena-165ba6301/)
+[![Gmail](https://img.shields.io/badge/-izzuddin.juanmandresv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.juanmandresv@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Introduction -->
+- 📚 I’m currently learning python
+- 🐝 I have
+- 🔭 I'm doing a 
+- 🌱 I'm looking to get 
+- 🍰 Fun fact: 
+---

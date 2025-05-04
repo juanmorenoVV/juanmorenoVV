@@ -6,9 +6,9 @@
 
 
 <!--Introduction -->
-- 📚 I’m currently learning python
+- 📚 I’m currently learning python and studying at ATS university
 - 🐝 I have
 - 🔭 I'm doing a 
-- 🌱 I'm looking to get 
+- 🌱 I'm looking to get my first job experience 
 - 🍰 Fun fact: 
 ---

@@ -8,7 +8,6 @@
 <!--Introduction -->
 - 📚 I’m currently learning Python and C 
 - 🐝 I’m studying at ATS university in Barquisimeto Venezuela
-- 🔭 I'm doing a 
-- 🌱 I'm looking to get my first job experience 
-- 🍰 Fun fact: 
+- 🔭 I'm looking to get my first job experience
+- 🌱 I keep constantly learning, putting my technical skills into practice 
 ---

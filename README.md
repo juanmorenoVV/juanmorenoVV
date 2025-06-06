@@ -6,8 +6,8 @@
 
 
 <!--Introduction -->
-- 📚 I’m currently learning Python and C 
+- 📚 I’m currently learning Python 
 - 🐝 I’m studying at ATS university in Barquisimeto Venezuela
-- 🔭 I'm looking to get my first job experience
+- 🔭 I'm searching my first job experience
 - 🌱 I keep constantly learning, putting my technical skills into practice 
 ---

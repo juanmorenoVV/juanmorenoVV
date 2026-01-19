@@ -15,8 +15,6 @@
 - 🐳 Strong knowledge of **Docker** & **Docker Compose** for Odoo development environments.
 - 📊 Experienced in **Third-party Integrations** (Google Sheets API, External Triggers).
 - ⚙️ Focused on **Clean Code**, Gitflow, and Unit Testing.
-- 🎓 Studying at ATS University, Barquisimeto, Venezuela.
-
 ---
 
 ### 🛠️ Tech Stack

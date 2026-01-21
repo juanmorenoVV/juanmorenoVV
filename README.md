@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Juan Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/juan-andres-moreno-valbuena-165ba6301/" target="_blank">
+<a href="https://www.linkedin.com/in/juan-andres-m-165ba6301/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:juanmandresv@gmail.com" target="_blank">

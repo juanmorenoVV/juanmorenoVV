@@ -12,9 +12,9 @@
 ### 💻 Odoo Backend Developer
 - 🚀 **+1 year of experience** developing custom modules and business logic in **Odoo**.
 - 🛠️ Expert in **Python**, PostgreSQL, and Odoo Framework (ORM, XML Views, Security).
-- 🐳 Strong knowledge of **Docker** & **Docker Compose** for Odoo development environments.
+- 🐳 Knowledge of **Docker** & **Docker Compose** for Odoo development environments.
 - 📊 Experienced in **Third-party Integrations** (Google Sheets API, External Triggers).
-- ⚙️ Focused on **Clean Code**, Gitflow, and Unit Testing.
+- ⚙️ Focused on **Clean Code** and Gitflow.
 ---
 
 ### 🛠️ Tech Stack
